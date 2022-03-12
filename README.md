@@ -31,7 +31,7 @@ Please take no more than 2 hours to finish. We do not track time, hence you can 
 
 Commit your answers in a private Github repository(it's free), please do not fork as other candidates will see your answers. Add Zan(liangzan), Kyle(kyled7), Thanh(thanhnpp), Viswanath(viswanathkgp12) as collaborators then inform us that it is done at zan@propine.com, kyle.dinh@propine.com, thanh.nguyen@propine.com, viswanath.kapavarapu@propine.com.
 
-## SOLUTION
+## Solution
 
 Steps I did in one hour and a half. (9:30 PM to 11 PM)
 
